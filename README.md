@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shouryya-manna" alt="shouryya-manna" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, Python, Java**
+- 🌱 I’m currently learning **Node React MongoDB Java**
 
 - 📫 How to reach me **shouryyamanna06@gmail.com**
 
