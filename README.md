@@ -58,7 +58,6 @@
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shouryya-manna&show_icons=true&locale=en&random=1" alt="shouryya-manna" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryya-manna&" alt="shouryya-manna" />
 </p>
 
 <h3 align="center">Top Languages:</h3>
